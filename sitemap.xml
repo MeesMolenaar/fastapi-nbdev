@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://MeesMolenaar.github.io/fastapi-nbdev/main.html</loc>
+    <lastmod>2022-12-03T10:06:40.955Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MeesMolenaar.github.io/fastapi-nbdev/index.html</loc>
+    <lastmod>2022-12-03T10:06:41.831Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MeesMolenaar.github.io/fastapi-nbdev/routers/aroute.html</loc>
+    <lastmod>2022-12-03T10:06:42.143Z</lastmod>
+  </url>
+</urlset>
